@@ -1,5 +1,5 @@
 // environment.prod.ts
-import { AppEnvironment } from './environment.types';
+import { AppEnvironment } from './types';
 
 export const environment: AppEnvironment = {
   name: 'prod',
